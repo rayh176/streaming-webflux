@@ -1,0 +1,7 @@
+/home/solocal-rayan/sandbox/dev/jobs/streaming-webflux/web-app/src/main/java/com/streaming/web/controller/StreamPlayersEndPoint.java
+/home/solocal-rayan/sandbox/dev/jobs/streaming-webflux/web-app/src/main/java/com/streaming/web/controller/BaseController.java
+/home/solocal-rayan/sandbox/dev/jobs/streaming-webflux/web-app/src/main/java/com/streaming/web/controller/ControllerAdvice.java
+/home/solocal-rayan/sandbox/dev/jobs/streaming-webflux/web-app/src/main/java/com/streaming/web/controller/RedirectController.java
+/home/solocal-rayan/sandbox/dev/jobs/streaming-webflux/web-app/src/main/java/com/streaming/web/config/WebfluxConfig.java
+/home/solocal-rayan/sandbox/dev/jobs/streaming-webflux/web-app/src/main/java/com/streaming/web/StreamingWebApp.java
+/home/solocal-rayan/sandbox/dev/jobs/streaming-webflux/web-app/src/main/java/com/streaming/web/service/PlayerService.java

@@ -1,0 +1,7 @@
+com/streaming/web/controller/BaseController.class
+com/streaming/web/config/WebfluxConfig.class
+com/streaming/web/service/PlayerService.class
+com/streaming/web/controller/ControllerAdvice.class
+com/streaming/web/controller/RedirectController.class
+com/streaming/web/controller/StreamPlayersEndPoint.class
+com/streaming/web/StreamingWebApp.class

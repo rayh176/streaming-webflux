@@ -1,0 +1,11 @@
+DELETE FROM player;
+INSERT INTO  player (name, age) VALUES ('one', 1);
+INSERT INTO  player (name, age) VALUES ('two', 2);
+INSERT INTO  player (name, age) VALUES ('three', 3);
+INSERT INTO  player (name, age) VALUES ('four', 4);
+INSERT INTO  player (name, age) VALUES ('five', 5);
+INSERT INTO  player (name, age) VALUES ('six', 6);
+INSERT INTO  player (name, age) VALUES ('seven', 7);
+INSERT INTO  player (name, age) VALUES ('eight', 8);
+INSERT INTO  player (name, age) VALUES ('nine', 9);
+INSERT INTO  player (name, age) VALUES ('ten', 10);
